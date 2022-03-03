@@ -15,4 +15,13 @@
 
 ### Use Cases of Topic Modeling
 
+- Resume Summarization
+
+- Search Engine Optimization
+
+- Recommender System Optimization
+
+- Improving Customer Support
+
+
 
