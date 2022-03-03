@@ -12,3 +12,7 @@
 - TF-IDF
 - Clustering
 - SVD using scikitlearn
+
+### Use Cases of Topic Modeling
+
+
